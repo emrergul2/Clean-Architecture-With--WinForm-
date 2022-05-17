@@ -1,0 +1,9 @@
+{
+    "workbench.colorCustomizations": {
+        "[Material Theme Ocean]": {},
+        "debugConsole.infoForeground": "#f700ff",
+        "activityBar.background": "#113428",
+        "titleBar.activeBackground": "#184838",
+        "titleBar.activeForeground": "#F4FBF9"
+    }
+}
